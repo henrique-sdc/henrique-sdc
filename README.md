@@ -25,7 +25,7 @@
   src="https://raw.githubusercontent.com/gilbarbara/logos/0fabdf6def45abdfa138996fc20392e8004ad0b9/logos/nextjs-icon.svg" />
   <img align="center" alt="Henrique-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Henrique-NextJS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-       <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+       <img align="right" alt="Pug-pic" height="150" style="border-radius:50px;" 
           src="https://yt3.googleusercontent.com/ytc/AIdro_lD2R3wY-e9CzFRlFDSKL8cG75Ki_7i2fKxuccByg=s176-c-k-c0x00ffffff-no-rj" >
   </div>
 
@@ -36,6 +36,4 @@
   <a href = "https://www.linkedin.com/in/henrique-sdc/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  <!-- ![Snake animation](https://github.com/henrique-sdc/henrique-sdc/blob/output/github-contribution-grid-snake.svg) -->
-    
   </div>
