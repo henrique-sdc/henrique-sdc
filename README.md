@@ -26,7 +26,7 @@
   <img align="center" alt="Henrique-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Henrique-NextJS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
        <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-          src="https://i.pinimg.com/564x/a3/54/f2/a354f2a3713632f175ffa37ef9a73a3b.jpg" >
+          src="https://yt3.googleusercontent.com/ytc/AIdro_lD2R3wY-e9CzFRlFDSKL8cG75Ki_7i2fKxuccByg=s176-c-k-c0x00ffffff-no-rj" >
   </div>
 
  ##
